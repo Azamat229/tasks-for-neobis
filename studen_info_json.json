@@ -9,7 +9,7 @@
     "city": "Tokmok",
     "status": "student",
     "organization": "IUCA",
-    "mentees_id": [
+    "mentees_id": [ // array
       1056,
       1097,
       1112,
@@ -17,7 +17,11 @@
       1009,
       34
     ],
-    "hobby":"wathc tv"
-
+    "educations": { // nested structure
+      "school" : "High school №3",
+      "college" : "Tech College in Tokmok",
+      "university" : "IUCA",
+      "clubs" : ["IUCA_TV", "Neobis_clubs(perhaps)"]
+    }
   }
 }
