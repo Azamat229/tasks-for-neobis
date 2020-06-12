@@ -1,0 +1,22 @@
+{
+  "memberInfo": {
+    "id": 999,
+    "firstName": "Azamat",
+    "lastName": "Mambetaliev",
+    "height": 178,
+    "weight": 70,
+    "departament": "Information Technology",
+    "city": "Tokmok",
+    "status": "student",
+    "organization": "IUCA",
+    "mentees_id": [
+      1056,
+      1097,
+      1112,
+      1102,
+      1009
+    ],
+    "hobby":"wathc tv"
+
+  }
+}
