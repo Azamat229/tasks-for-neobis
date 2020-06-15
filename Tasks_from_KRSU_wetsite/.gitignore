@@ -139,3 +139,4 @@ cython_debug/
 # file: ~/.gitignore_global
 .DS_Store
 .idea
+.fasfa
