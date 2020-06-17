@@ -1,0 +1,5 @@
+num, num1 = input().split()
+num = int(num)
+num1 = int(num1)
+sum = int(num + num1)
+print('{}+{}={}'.format(num, num1, sum))
