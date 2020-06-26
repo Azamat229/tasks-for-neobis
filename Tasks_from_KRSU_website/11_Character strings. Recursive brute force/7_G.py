@@ -4,5 +4,5 @@ def R(n, start, p):
     else:
         for j in range(start, n + 1):
             R(n - j, j, p + str(j) + '+')
- 
+
 R(int(input()), 1, '')
